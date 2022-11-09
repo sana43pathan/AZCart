@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/AZCart/static/css/main.e61563e7.css",
+    "main.js": "/AZCart/static/js/main.7d64cdc9.js",
+    "static/media/Ba1.jpg": "/AZCart/static/media/Ba1.afc34616630547d52476.jpg",
+    "static/media/Amsterdam Personal Use.ttf": "/AZCart/static/media/Amsterdam Personal Use.9672b272d7f5a2e35cf7.ttf",
+    "static/media/PARK_AVENUE_Men_Slim_Fit_Self_Design_Formal_Shirt7.webp": "/AZCart/static/media/PARK_AVENUE_Men_Slim_Fit_Self_Design_Formal_Shirt7.de0b340c56a52791e0b2.webp",
+    "static/media/LEWEL_Checkered_Men_Hooded_Neck_White_Black_T-Shirt10.webp": "/AZCart/static/media/LEWEL_Checkered_Men_Hooded_Neck_White_Black_T-Shirt10.dadc1a5102503c65af8b.webp",
+    "static/media/Playball.ttf": "/AZCart/static/media/Playball.5a38da5344c3022c22bb.ttf",
+    "static/media/ACCOX_Men_Regular_Fit_Checkered_Tie_up_Collar_Formal_Shirt8.webp": "/AZCart/static/media/ACCOX_Men_Regular_Fit_Checkered_Tie_up_Collar_Formal_Shirt8.bcc8cbf5ad4f331b5f3b.webp",
+    "static/media/Blue_Jeans_1.webp": "/AZCart/static/media/Blue_Jeans_1.ccb0b1d595cb2bddbf8b.webp",
+    "static/media/HIGHLANDER_Tapered_Fit_Men_Blue_Jeans4.webp": "/AZCart/static/media/HIGHLANDER_Tapered_Fit_Men_Blue_Jeans4.d6c0d834329e4d901a62.webp",
+    "static/media/light3.webp": "/AZCart/static/media/light3.37cf6ef8c9f86c29c7dc.webp",
+    "static/media/Shirt13.webp": "/AZCart/static/media/Shirt13.0d0cc2b9148c0389d255.webp",
+    "static/media/shirt14.webp": "/AZCart/static/media/shirt14.5780d3ecea29efabf319.webp",
+    "static/media/Allen_Solly_Slim_Men_Blue_Jeans_2.webp": "/AZCart/static/media/Allen_Solly_Slim_Men_Blue_Jeans_2.abbe10040072e99af80e.webp",
+    "static/media/TRIPR_Solid_Men_Mandarin_Collar_Dark_Green_Black_T-Shirt11.webp": "/AZCart/static/media/TRIPR_Solid_Men_Mandarin_Collar_Dark_Green_Black_T-Shirt11.833c36f5a2e0608360c4.webp",
+    "static/media/ZAYSH_Jogger_Fit_Men_Blue_Jeans5.webp": "/AZCart/static/media/ZAYSH_Jogger_Fit_Men_Blue_Jeans5.9cbfa2e1742fade83d68.webp",
+    "static/media/Urbano_Fashion_Slim_Men_White_Jeans6.webp": "/AZCart/static/media/Urbano_Fashion_Slim_Men_White_Jeans6.3cf281198427ffd4955c.webp",
+    "static/media/Shirt15.webp": "/AZCart/static/media/Shirt15.28d355ab70f593df4053.webp",
+    "static/media/PETER_ENGLAND_Men_Slim_Fit_Solid_Spread_Collar_Formal_Shirt9.webp": "/AZCart/static/media/PETER_ENGLAND_Men_Slim_Fit_Solid_Spread_Collar_Formal_Shirt9.7095db4e8202c5c7bc70.webp",
+    "static/media/HELMONT_Color_Block_Men_Hooded_Neck_Maroon_T-Shirt12.webp": "/AZCart/static/media/HELMONT_Color_Block_Men_Hooded_Neck_Maroon_T-Shirt12.4132450dc8ba8a40aef9.webp",
+    "index.html": "/AZCart/index.html",
+    "main.e61563e7.css.map": "/AZCart/static/css/main.e61563e7.css.map",
+    "main.7d64cdc9.js.map": "/AZCart/static/js/main.7d64cdc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61563e7.css",
+    "static/js/main.7d64cdc9.js"
+  ]
+}
