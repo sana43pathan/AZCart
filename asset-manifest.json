@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AZCart/static/css/main.e61563e7.css",
-    "main.js": "/AZCart/static/js/main.7d64cdc9.js",
+    "main.js": "/AZCart/static/js/main.aaef202a.js",
     "static/media/Ba1.jpg": "/AZCart/static/media/Ba1.afc34616630547d52476.jpg",
     "static/media/Amsterdam Personal Use.ttf": "/AZCart/static/media/Amsterdam Personal Use.9672b272d7f5a2e35cf7.ttf",
     "static/media/PARK_AVENUE_Men_Slim_Fit_Self_Design_Formal_Shirt7.webp": "/AZCart/static/media/PARK_AVENUE_Men_Slim_Fit_Self_Design_Formal_Shirt7.de0b340c56a52791e0b2.webp",
@@ -22,10 +22,10 @@
     "static/media/HELMONT_Color_Block_Men_Hooded_Neck_Maroon_T-Shirt12.webp": "/AZCart/static/media/HELMONT_Color_Block_Men_Hooded_Neck_Maroon_T-Shirt12.4132450dc8ba8a40aef9.webp",
     "index.html": "/AZCart/index.html",
     "main.e61563e7.css.map": "/AZCart/static/css/main.e61563e7.css.map",
-    "main.7d64cdc9.js.map": "/AZCart/static/js/main.7d64cdc9.js.map"
+    "main.aaef202a.js.map": "/AZCart/static/js/main.aaef202a.js.map"
   },
   "entrypoints": [
     "static/css/main.e61563e7.css",
-    "static/js/main.7d64cdc9.js"
+    "static/js/main.aaef202a.js"
   ]
 }
